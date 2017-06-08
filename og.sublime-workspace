@@ -1,0 +1,594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"ra",
+				"rail-blue"
+			],
+			[
+				"font",
+				"font-serif"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sa",
+				"font-sans-serif"
+			],
+			[
+				"bla",
+				"black-80percent"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"rai",
+				"rail-red"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"rail",
+				"rail-blue"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"blck",
+				"black"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"MA",
+				"max-width"
+			],
+			[
+				"blac",
+				"black-80percent"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"radio",
+				"radio-list"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3878,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 10134,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/og/css/main.css",
+		"/Applications/MAMP/htdocs/og/index.html",
+		"/Applications/MAMP/htdocs/og/css/main.scss",
+		"/Users/jamesshaw/Downloads/delihero-kitchen-sink-249dc77d1b1f 3/css/app.scss",
+		"/Applications/MAMP/htdocs/og/css/tumblr.html",
+		"/Applications/MAMP/htdocs/og/hex.html",
+		"/Users/jamesshaw/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/og/boo.html",
+		"/Applications/MAMP/htdocs/og/og.sublime-project",
+		"/Users/jamesshaw/Desktop/testi.html",
+		"/Users/jamesshaw/Desktop/test.svg",
+		"/Users/jamesshaw/Desktop/dates.html",
+		"/Users/jamesshaw/Desktop/test.html",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/css/main.scss",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/index.html",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/page-post.html",
+		"/Users/jamesshaw/Library/Caches/Cleanup At Startup/Transmit/41E444D9-DFA6-4991-99A0-69B7053D8E20/index.html",
+		"/Users/jamesshaw/Documents/dh-docs/foodfinder/index.html",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/css/nav.css",
+		"/Users/jamesshaw/Documents/dh-docs/hungryhouse/untitled folder/index.html",
+		"/Users/jamesshaw/Downloads/delihero-kitchen-sink-249dc77d1b1f 2/css/app.scss",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/images/icon-sprite.svg",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/elements/fade-in.html",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/elements/hover-links.html",
+		"/Users/jamesshaw/Downloads/Hover-master/scss/hover.scss",
+		"/Users/jamesshaw/Desktop/presse.html",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/js/classie.js",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/cam2015.sublime-project",
+		"/Applications/MAMP/htdocs/wpcomms/wp-content/themes/dhcomm2/filter-cat-select.php",
+		"/Applications/MAMP/htdocs/wpcomms/wp-content/themes/dhcomm2/filter-market-select.php",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/parts/form.html",
+		"/Users/jamesshaw/Desktop/section-cards.html",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/css/nav.scss",
+		"/Users/jamesshaw/Downloads/Material-Menu-master/index.html",
+		"/Users/jamesshaw/Downloads/Material-Menu-master/_sass/sass/modules/_menu.scss",
+		"/Users/jamesshaw/Desktop/INDEXY.HTML",
+		"/Users/jamesshaw/Desktop/2214.html",
+		"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/css/main.css",
+		"/Users/jamesshaw/Library/Caches/Cleanup At Startup/Transmit/D3F8D371-9914-43B9-AACA-70B568C543A6/header-blank.php",
+		"/Users/jamesshaw/Library/Caches/Cleanup At Startup/Transmit/EAB9A51F-D088-4289-97D5-AA21144B6F21/header-curry.php",
+		"/Users/jamesshaw/Library/Caches/Cleanup At Startup/Transmit/378C2693-A977-4190-A3D4-7A8F67A611CA/header.php",
+		"/Users/jamesshaw/Library/Caches/Cleanup At Startup/Transmit/B18F3DC7-69AE-42E2-A653-70E5A00767FC/header-tt.php",
+		"/Users/jamesshaw/Library/Caches/Cleanup At Startup/Transmit/B7C45F6B-C3E5-48F2-A726-60EE0D7731C7/header-lp.php",
+		"/Users/jamesshaw/Library/Caches/Cleanup At Startup/Transmit/64D2D42C-72BB-4059-BBC7-2DE6BB901C7B/index.html",
+		"/Users/jamesshaw/Library/Caches/Cleanup At Startup/Transmit/1DC00A40-6D50-42C1-98C0-C537E4F07EF0/header-options.php",
+		"/Users/jamesshaw/Downloads/css-dropdown/css-dropdown_final/style.css",
+		"/Applications/MAMP/htdocs/hhblog-peckish/bare-html/arrow-boxes.html",
+		"/Applications/MAMP/htdocs/hhblog-peckish/bare-html/sass/main.scss",
+		"/Applications/MAMP/htdocs/hhblog-peckish/bare-html/sass/_nav.scss",
+		"/Applications/MAMP/htdocs/hhblog-peckish/bare-html/sass/_cta.scss",
+		"/Applications/MAMP/htdocs/camsite/wp-config-sample.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"greet",
+			"main",
+			"intr",
+			"p {",
+			"greet",
+			"85",
+			"contain",
+			"intro",
+			"main",
+			"intro",
+			"greet",
+			"transl",
+			"50%",
+			"phablet",
+			"table",
+			"row",
+			"main",
+			"row",
+			"main",
+			"vh",
+			"greet",
+			"intro",
+			"prof",
+			"desa",
+			"des",
+			"intro",
+			"h1",
+			"greeting",
+			"prof",
+			"intro",
+			"profile",
+			"p {",
+			"p{",
+			"h1",
+			"drop",
+			"DROP",
+			"4s",
+			"red",
+			"cover",
+			"hover",
+			"comma",
+			"h1",
+			"h11",
+			"ul",
+			"drop",
+			"title",
+			"font-para",
+			"font-",
+			"drop",
+			"royal",
+			"rail-blue",
+			"p{",
+			"fade",
+			"one-th",
+			"sc",
+			"post",
+			"translate",
+			"y",
+			"cover",
+			" \";}",
+			"button-",
+			"unders",
+			"h2 unders",
+			"excer",
+			"wrap-top",
+			"post-large",
+			"wrap-top",
+			"head",
+			"post-large",
+			"LH695GF6PD",
+			"wrap-top",
+			"post-la",
+			"wrap-top",
+			"style",
+			"featured-img-bg",
+			"feat",
+			"coral",
+			"button",
+			"unders",
+			".side",
+			"foot",
+			"wrap",
+			"foot",
+			"figure",
+			"showtit",
+			"fig",
+			"dj",
+			"djj",
+			"br class",
+			"fig",
+			"wrap",
+			"coral",
+			"butt",
+			"excer",
+			"button",
+			"excer",
+			"sharp",
+			"read",
+			"title",
+			"bp",
+			"wrap",
+			"radio",
+			"pod",
+			"covers",
+			"header",
+			"wrap",
+			"header",
+			"wra",
+			"50%",
+			"bp",
+			"@imp",
+			"@inc",
+			"logo",
+			".title",
+			"side-",
+			"transparent-",
+			"feat",
+			"focu",
+			"color-wra",
+			"showtitle",
+			"mixin",
+			"radius",
+			"full",
+			"infini",
+			"header",
+			"smaller",
+			"cursor",
+			"unders"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"royal-blue"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3870,
+								3870
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.scss",
+					"settings":
+					{
+						"buffer_size": 10134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/cam2015/cambrianlinetheme/barehtml/cam2015.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true
+}

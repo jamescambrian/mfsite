@@ -1,0 +1,151 @@
+header{
+    width: 100%;
+    height: 100vh;
+    background: url(../images/background--head.jpg) center center;
+    background-size:cover;
+    .button--newsletter{
+        position: absolute;
+        right:3rem;
+        top: 2rem;
+    }
+    .header{
+        text-align: center;
+        padding-top: 146px;
+        .logo{
+            @media(#{$bp-larger-than-mobile}){
+                width: 220px;
+            }
+            @media(#{$bp-larger-than-tablet}){
+                margin-top: 2rem;
+                width: 490px;
+                height: auto;
+            }
+        }
+    }    
+    .arrowdown{
+        width: 64px;
+        height: auto;
+        position: absolute;
+        left: 50%;
+        margin-left: -32px;
+        bottom: 3rem;
+        opacity: 0.8;
+        &:hover{
+            opacity: 1;
+        }
+    }
+}
+
+.block{
+    padding:6rem 0;
+}
+
+.programme{
+    @media(#{$bp-larger-than-mobile}){height:auto; max-height: 100%}
+    @media(#{$bp-larger-than-tablet}){
+    height: 100vh;
+    max-height: 650px;}
+    h2{
+        border-bottom: 1px solid $color--white;
+    }
+    h3{
+        opacity: 0.5;
+    }
+    
+    #lineup--friday{
+        margin-top: 2rem;
+    }
+    
+    .list{
+        color: $color--white;
+        font-size: 1.4rem;
+        font-weight: 600;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        a{
+            color: $color--white;
+            &:hover{
+                text-decoration: line-through;
+                border: none;
+            }
+        }
+    }
+    .ticket--prices{
+        font-size: 1.4rem;
+        font-weight: bold;
+    }
+}
+
+
+// red section
+
+.section--highlight{
+    background: $color--highlight;
+    .pictureholder{
+        margin-left: 0;
+        padding-right: 1.5rem;
+    }
+    p{
+        color: $color--white;
+        font-size: 1.4rem;
+        line-height: 2.5rem;
+    }
+}
+
+//white section
+.white
+{
+    background: $color--white;
+    text-align: center;
+    h3{
+        color: $color--black;
+    }
+    p{
+        font-size: 1.2rem;
+        text-align: left;
+        line-height: 2rem;
+        color: $color--black;
+    }
+}
+
+footer{
+    text-align: center;
+    p{
+        font-size: 1.2rem;
+        text-align: left;
+        line-height: 2rem;
+        color: $color--white;
+        
+    }
+    .foot{
+        margin-top: 4rem;
+        text-transform: uppercase;
+        p{
+            text-align: center;
+            opacity: 0.5;
+        }
+        
+    }
+}
+
+
+// slidediv
+.slidingDiv {
+height:auto;
+}
+
+.show_hide {
+display:none;
+}
+
+/* Clearing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Self Clearing Goodness */
+.container:after,
+.row:after,
+.u-cf {
+  content: "";
+  display: table;
+  clear: both; }

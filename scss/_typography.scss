@@ -1,0 +1,52 @@
+//TYPOGRAPHY
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-weight: normal;
+  font-family: $font--p;    
+}
+h1 {font-size: 1.4rem;
+    text-transform: uppercase; 
+    font-weight: 900; color: $color--white;}
+    /* Larger than phablet */
+    @media (min-width: 550px) {
+    h1 { font-size: 2.4rem; }
+}
+h2{
+    font-size: 2.4rem;
+    color: $color--white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 1.45rem;
+    color: $color--white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+p {
+    margin-top: 0;
+    color: $color--white;
+    font-family: $font--p;
+    font-weight: 400;
+    letter-spacing: 0.01rem;
+    @media (#{$bp-larger-than-mobile}) {font-size: 1.8rem; word-spacing: 0.15rem;@include fade(0.5s);}
+    @media (#{$bp-larger-than-desktop}) {font-size: 1.8rem; word-spacing: 0.1rem; line-height: 2.8rem; @include fade(0.5s);}
+    @media (#{$bp-larger-than-desktophd}) {font-size: 1.8rem; word-spacing: 0.15rem; line-height: 3.2rem;}
+}
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  color: $color--highlight;
+  cursor: pointer;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: $color--highlight solid 1px;
+}
+:focus{
+  background-color: transparent;
+  outline:none;
+}

@@ -1,0 +1,19 @@
+// ANIMATION
+.fade1 {
+  -webkit-animation: fadein 1s 1 0s forwards;
+  animation: fadein 1s 1 0s forwards;
+  opacity: 0;
+}
+.fade2 {
+  -webkit-animation: fadein 0.5s 1 0.75s forwards;
+  animation: fadein 0.5s 1 0.75s forwards;
+  opacity: 0;
+}
+@-webkit-keyframes fadein {
+  0%  {opacity: 0; }
+  100% { opacity: 1;}
+}
+@keyframes fadein {
+  0%  {opacity: 0;}
+  100% { opacity: 1;}
+}
